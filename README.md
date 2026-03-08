@@ -34,11 +34,11 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="[www.linkedin.com/in/meet-mehta-k1a3d6m5](https://www.linkedin.com/in/meet-mehta-k1a3d6m5/)">
+<a href="https://www.linkedin.com/in/meet-mehta-k1a3d6m5/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/meetmehta136">
+<a href="https://github.com/meetmehta136" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
