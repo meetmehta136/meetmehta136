@@ -34,7 +34,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/meet-mehta-k1a3d6m5">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
