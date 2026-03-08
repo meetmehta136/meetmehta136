@@ -109,13 +109,6 @@ Automated transfer system built with ASP.NET and SQL Server.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=meetmehta136&theme=algolia"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
